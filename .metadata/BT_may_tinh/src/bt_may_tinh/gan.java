@@ -22,8 +22,7 @@ public class gan {
             System.out.println("sai du lieu");
         }
         area= radius*radius*3.14159;
-        System.out.println("chu vi="+area);
-        
+        System.out.println("chu vi = "+area);
     }
     
 }
