@@ -20,6 +20,9 @@ public class Byte {
         b=s.nextByte();    
         System.out.println("a + b = "+ (a+b));
         System.out.println("a - b = "+ (a-b));
-        System.out.println("a*b");
+        System.out.println("a * b = " + (a*b));
+        System.out.println("a / b = "+ (a/b));
+        System.out.println("a % b = "+ (a%b));
+        System.out.println("a^b = "+ Math.pow(a,b));
     }
 }
